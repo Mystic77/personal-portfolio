@@ -1,0 +1,92 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+
+/* Headings */
+
+
+/* Containers */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/* Sections */
+.light-section {
+  background-color: #dbe2ef;
+}
+
+.coloured-section {
+  background-color: #3f72af;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 20px 1.5rem;
+}
+
+.nav-item {
+  padding: 0 5px;
+}
+
+
+
+/* Title Section */
+
+
+
+/* About Me Section */
+
+.profile-picture {
+  border-radius: 100%;
+}
+
+.intro-text {
+  width: 30%;
+  margin: 30px auto;
+}
+
+/* Skills Section */
+
+.skills-title {
+  margin-bottom: 2rem;
+}
+
+.skills-box {
+  padding: 4.5%;
+}
+
+.icon {
+  margin-bottom: 1rem;
+}
+
+/* Projects Section */
+
+.project-image {
+  width: 15rem;
+  height: 15rem;
+}
+
+.project-column {
+  padding: 3%;
+  margin: auto;
+}
+
+/* Contact Section */
+
+.contact-text {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+/* Footer */
+
+.footer-link {
+  color: black;
+  margin: 30px 10px;
+}
